@@ -3,6 +3,7 @@
 
 #include <QWidget>
 
+
 namespace Ui {
 class Form;
 }
@@ -14,6 +15,9 @@ class Form : public QWidget
 public:
     explicit Form(QWidget *parent = nullptr);
     ~Form();
+
+private slots:
+    void on_pushButton_clicked();
 
 private:
     Ui::Form *ui;

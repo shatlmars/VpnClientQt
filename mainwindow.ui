@@ -82,8 +82,8 @@
    <widget class="QPushButton" name="RunBut">
     <property name="geometry">
      <rect>
-      <x>180</x>
-      <y>320</y>
+      <x>160</x>
+      <y>340</y>
       <width>121</width>
       <height>71</height>
      </rect>
@@ -95,9 +95,9 @@
    <widget class="QLabel" name="StatusLabel">
     <property name="geometry">
      <rect>
-      <x>210</x>
-      <y>180</y>
-      <width>41</width>
+      <x>190</x>
+      <y>220</y>
+      <width>51</width>
       <height>61</height>
      </rect>
     </property>
@@ -108,8 +108,8 @@
    <widget class="QPushButton" name="SelectServerConfig">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>260</y>
+      <x>100</x>
+      <y>290</y>
       <width>231</width>
       <height>24</height>
      </rect>
